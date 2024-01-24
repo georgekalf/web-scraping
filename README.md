@@ -1,4 +1,4 @@
-
+<img src="web-scraping.jpeg" width="900" height="500">
 
 # Web Scraping Projects
 
