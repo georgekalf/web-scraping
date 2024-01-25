@@ -44,5 +44,3 @@ Scrape and analyze Aldi's job postings, addressing issues in the initial script,
 
 6. **Hypothesis Testing:**
    - Formulate and test hypotheses related to job types and salary associations within the dataset.
-
-Feel free to explore each project folder for detailed documentation and code implementation.
